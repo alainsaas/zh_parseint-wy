@@ -1,7 +1,7 @@
 # 解析整數 zh_parseint
 
 The 解析整數 (parseInt) function parses a string argument and returns an integer.
-It also works with Chinese characters.
+It also works with both Chinese and European numerals.
 
 This code was adapted to wenyan-lang from https://github.com/kong0107/chinese-parseint
 
